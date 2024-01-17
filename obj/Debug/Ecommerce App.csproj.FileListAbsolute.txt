@@ -1,0 +1,91 @@
+C:\Users\PMLS\Desktop\Ecommerce App\bin\Debug\Ecommerce App.exe.config
+C:\Users\PMLS\Desktop\Ecommerce App\bin\Debug\Ecommerce App.exe
+C:\Users\PMLS\Desktop\Ecommerce App\bin\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.Properties.Resources.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.csproj.GenerateResource.cache
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.exe
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.LoginForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.RegisterForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.AdminForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.UserForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.ProductForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.CategoryForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.OrderForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.NewProductForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.NewCategoryForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.OrderStatusForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.UserProductForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.UserOrderForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce_App.CheckoutForm.resources
+C:\Users\PMLS\Desktop\Ecommerce App\bin\Debug\BCrypt.Net.dll
+C:\Users\PMLS\Desktop\Ecommerce App\bin\Debug\BCrypt.Net.xml
+C:\Users\PMLS\Desktop\Ecommerce App\obj\Debug\Ecommerce App.csproj.CopyComplete
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\Ecommerce App.exe.config
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\Ecommerce App.exe
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.AdminForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.CategoryForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.CheckoutForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.LoginForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.NewCategoryForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.NewProductForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.OrderForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.OrderStatusForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.ProductForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.Properties.Resources.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.RegisterForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserOrderForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserProductForm.resources
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.GenerateResource.cache
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.CopyComplete
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.exe
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\obj\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Buffers.dll
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Memory.dll
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Buffers.xml
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Memory.xml
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PMLS\Desktop\WithBcrypt(not_working)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.AssemblyReference.cache
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.AdminForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.CategoryForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.CheckoutForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.LoginForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.NewCategoryForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.NewProductForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.OrderForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.OrderStatusForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.ProductForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.Properties.Resources.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.RegisterForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserOrderForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce_App.UserProductForm.resources
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.GenerateResource.cache
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.exe
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\Ecommerce App.exe.config
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\Ecommerce App.exe
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\Ecommerce App.pdb
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Buffers.dll
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Memory.dll
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Buffers.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Memory.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PMLS\Downloads\EcoUrba\EcoUrba\WithBcrypt(not_working)\obj\Debug\Ecommerce App.csproj.CopyComplete
